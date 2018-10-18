@@ -12,6 +12,7 @@
 		E263031F21765DC90049AAEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E263031D21765DC90049AAEA /* Main.storyboard */; };
 		E263032121765DCB0049AAEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E263032021765DCB0049AAEA /* Assets.xcassets */; };
 		E263032421765DCB0049AAEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E263032221765DCB0049AAEA /* LaunchScreen.storyboard */; };
+		E263032C217892570049AAEA /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = E263032B217892570049AAEA /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E263032021765DCB0049AAEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E263032321765DCB0049AAEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E263032521765DCB0049AAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E263032B217892570049AAEA /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E263031921765DC90049AAEA /* AppDelegate.swift */,
 				E263031B21765DC90049AAEA /* ViewController.swift */,
+				E263032B217892570049AAEA /* MapForItinerary.swift */,
 				E263031D21765DC90049AAEA /* Main.storyboard */,
 				E263032021765DCB0049AAEA /* Assets.xcassets */,
 				E263032221765DCB0049AAEA /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				E263031C21765DC90049AAEA /* ViewController.swift in Sources */,
 				E263031A21765DC90049AAEA /* AppDelegate.swift in Sources */,
+				E263032C217892570049AAEA /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
